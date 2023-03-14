@@ -1,0 +1,16 @@
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\bin\Debug\IoBrowser_Shower.exe.config
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\bin\Debug\IoBrowser_Shower.exe
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\bin\Debug\IoBrowser_Shower.pdb
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\IoBrowser_Shower.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\IoBrowser_Shower.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\MainWindow.g.cs
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\App.g.cs
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\IoBrowser_Shower_MarkupCompile.cache
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\IoBrowser_Shower_MarkupCompile.lref
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\MainWindow.baml
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\IoBrowser_Shower.g.resources
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\IoBrowser_Shower.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\IoBrowser_Shower.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\IoBrowser_Shower.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\IoBrowser_Shower.exe
+C:\Users\Кирилл\Desktop\VOID\GitHubVisual\IoBrowser_Shower\obj\Debug\IoBrowser_Shower.pdb
